@@ -8,8 +8,7 @@ Este projeto visa investigar a relação entre a pegada de carbono e o desenvolv
 
 ### Observações
 
-A questão 8 e 9 estão com gráficos faltando ao serem visualizadas no ambiente no github, entretanto se o notebook for executado em ambiente Jupyter ou Visual Studio Code funcionam perfeitamente
-por isso <b>recomendamos<b> que execute esse notebook em um desses dois ambientes, desculpe pelo transtorno.
+A 9 está com um gráfico faltando ao ser visualizada no ambiente no github, pois o github não suporta mapas interativos, mapa gerado com auxilio da biblioteca plotly.express. Contudo se o notebook for executado em ambiente Jupyter ou Visual Studio Code funcionam perfeitamente, por isso <b>recomenda-se<b> que execute esse notebook em um desses dois ambientes.
 
 
 
